@@ -1,0 +1,3 @@
+rootProject.name = "FKTestExample"
+include ':app'
+include ':FKTest'
